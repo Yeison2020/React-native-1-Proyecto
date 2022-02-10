@@ -4,7 +4,10 @@ import {Text, View} from 'react-native';
 const App = () => {
   return (
     <View>
-      <Text>Ready configurations to start working here</Text>
+      <Text>
+        Good morning Yeison How are you doing Checking for updates all devices
+        connected
+      </Text>
     </View>
   );
 };
